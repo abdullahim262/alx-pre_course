@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-school
-=======
-#!/bin/bash
-echo "The School is open"
->>>>>>> update_script
+The school is open!
